@@ -1,0 +1,23 @@
+{
+    "emails": {
+        "alu_official": [
+            "student1@alueducation.com"
+        ],
+        "alu_alumni": [],
+        "alu_si": [],
+        "external": [
+            "***@gmail.com"
+        ]
+    },
+    "credit_cards": [
+        "XXXX-XXXX-XXXX-4444"
+    ],
+    "urls": [
+        "https://alueducation.com",
+        "http://example-platform.org"
+    ],
+    "phone_numbers": [
+        "+250-788-123-456",
+        "12345678901234"
+    ]
+}
